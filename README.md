@@ -1,5 +1,4 @@
-# PortfolioProject
-Data cleaning with SQL
+# Data cleaning with SQL
 
 This analysis provided an opportunity for me to explore global data on confirmed Covid 19 deaths and Vaccinations. 
 About the Data:
